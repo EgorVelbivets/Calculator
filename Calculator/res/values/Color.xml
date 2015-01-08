@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="LightMain">#ffffff</color>
+    <color name="LightAlternative">#efefef</color>
+    <color name="Detachment">#0066FF</color>
+</resources>
